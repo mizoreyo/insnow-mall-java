@@ -54,8 +54,8 @@ jwt:
 aliyun:
   oss:
     endpoint: oss-cn-chengdu.aliyuncs.com # oss对外服务的访问域名
-    accessKeyId: LTAI5tArbTnooYYSWE6hUiu1 # 访问身份验证中用到用户标识
-    accessKeySecret: g3Eu49aAl3pqA5DSDk4oiUvQf97Xcz # 用户用于加密签名字符串和oss用来验证签名字符串的密钥
+    accessKeyId: LTAI5tMs9gZSeEaP5tdszxCk # 访问身份验证中用到用户标识
+    accessKeySecret: 5aDeZIycaTqUGiR18l2qV3vwFCAI0U # 用户用于加密签名字符串和oss用来验证签名字符串的密钥
     bucketName: insnow-mall # oss的存储空间
     policy:
       expire: 300 # 签名有效期(S)

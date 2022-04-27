@@ -13,7 +13,6 @@ import site.mizore.mall.service.UmsMemberService;
 
 /**
  * 会员登录注册管理Controller
- * Created by macro on 2018/8/3.
  */
 @Controller
 @Api(tags = "UmsMemberController", description = "会员登录注册管理")
